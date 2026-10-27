@@ -18,12 +18,12 @@ This project was completed as part of a **Data Technician Bootcamp** and demonst
 ### Decision Making
 - Implemented `if`, `elif`, and `else` statements to control program flow.
 - Created logic to validate inputs and handle different scenarios.
-- Applied conditional statements to solve tasks such as determining even/odd numbers, checking leap years, and validating ATM transactions. 【1-3d8a0e】
+- Applied conditional statements to solve tasks such as determining even/odd numbers, checking leap years, and validating ATM transactions. 
 
 ### Loops and Iteration
 - Used `for` loops to process ranges of values and automate repetitive tasks.
 - Used `while` loops to create menu-driven applications and repeated user interactions.
-- Applied iteration to exercises such as generating number sequences and checking prime numbers 【1-3d8a0e】
+- Applied iteration to exercises such as generating number sequences and checking prime numbers 
 
 ### Calculations and Problem Solving
 - Developed programs to calculate:
@@ -32,12 +32,12 @@ This project was completed as part of a **Data Technician Bootcamp** and demonst
   - Rectangle areas
   - Compound interest
   - Date and time-related calculations
-- Applied arithmetic operators and logical reasoning to produce accurate results. 【1-3d8a0e】
+- Applied arithmetic operators and logical reasoning to produce accurate results. 
 
 ### Practical Programming Projects
 - Built interactive console applications.
 - Developed an ATM simulation using functions, loops, conditional statements, and user input.
-- Created solutions for common programming challenges focused on logic and algorithm development. 【1-3d8a0e】
+- Created solutions for common programming challenges focused on logic and algorithm development. 
 
 ## Key Learning Outcomes
 Through this project, I gained hands-on experience in:
