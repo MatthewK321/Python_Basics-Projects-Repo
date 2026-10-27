@@ -23,7 +23,7 @@ This project was completed as part of a **Data Technician Bootcamp** and demonst
 ### Loops and Iteration
 - Used `for` loops to process ranges of values and automate repetitive tasks.
 - Used `while` loops to create menu-driven applications and repeated user interactions.
-- Applied iteration to exercises such as generating number sequences, checking prime numbers, and implementing the FizzBuzz challenge. 【1-3d8a0e】
+- Applied iteration to exercises such as generating number sequences and checking prime numbers 【1-3d8a0e】
 
 ### Calculations and Problem Solving
 - Developed programs to calculate:
